@@ -192,7 +192,9 @@ const SplashT = [
 	"Check out the settings page",
 	"Subscribe @jk0011gamingg or I'll put a lock on the website lol",
 	"HE HE HE HAW",
-	"GoGuardian... More like NoGuardian"
+	"GoGuardian... More like NoGuardian",
+	"Click this text...",
+	"Subscribe to us on YouTube (@xbubbo and @jk0011gamingg)"
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
